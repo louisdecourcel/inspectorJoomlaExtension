@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.7.0" client="site" method="upgrade">
+    <name>Preview extension</name>
+    <author>Fidesio</author>
+    <creationDate>2014-01-12</creationDate>
+    <authorEmail>louis.decourcel@fidesio.com</authorEmail>
+    <authorUrl>www.fidesio.com</authorUrl>
+    <version>1.0.0</version>
+    <description>Preview extension used by http://projets.preview-app.net</description>
+    <files>
+        <filename>inspectorJoomlaExtension.xml</filename>
+        <filename module="inspectorJoomlaExtension">inspectorJoomlaExtension.php</filename>
+    </files>
+</extension>
