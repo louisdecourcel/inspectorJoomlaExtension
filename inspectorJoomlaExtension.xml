@@ -5,7 +5,7 @@
     <creationDate>2014-01-12</creationDate>
     <authorEmail>louis.decourcel@fidesio.com</authorEmail>
     <authorUrl>www.fidesio.com</authorUrl>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <description>Preview extension used by http://projets.preview-app.net</description>
     <files>
         <filename>inspectorJoomlaExtension.xml</filename>
