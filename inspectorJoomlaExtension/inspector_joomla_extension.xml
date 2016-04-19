@@ -6,7 +6,7 @@
     <authorEmail>louis.decourcel@fidesio.com</authorEmail>
     <authorUrl>www.fidesio.com</authorUrl>
     <version>1.0.3</version>
-    <description>Preview extension used by http://projets.preview-app.net</description>
+    <description>Preview extension used by https://projects.preview.team</description>
     <files>
         <filename>inspector_joomla_extension.xml</filename>
         <filename module="inspector_joomla_extension">inspector_joomla_extension.php</filename>
